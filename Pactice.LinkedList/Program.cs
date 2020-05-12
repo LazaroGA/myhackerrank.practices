@@ -11,12 +11,13 @@ namespace Pactice.LinkedList
             this_.InsertLast(sll, 1);
             this_.InsertLast(sll, 2);
             this_.InsertLast(sll, 3);
-
+            this_.InsertLast(sll, 4);
+            this_.InsertLast(sll, 5);
 
             Node curNode = sll.head;
             do
             {
-                Console.WriteLine($"current node data {curNode.data} points to {curNode.next?.data}");
+                Console.WriteLine($"current node data {curNode.data} ===> {curNode.next?.data}");
                 curNode = curNode.next;
             } while (curNode != null);
         }
