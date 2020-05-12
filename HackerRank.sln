@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeftRotation", "LeftRotation\LeftRotation.csproj", "{BA6B6F51-77DB-4ADD-9F87-975234484C85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemSolving.LeftRotation", "LeftRotation\ProblemSolving.LeftRotation.csproj", "{BA6B6F51-77DB-4ADD-9F87-975234484C85}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DyamicArray", "Dyamicarray\DyamicArray.csproj", "{145AEFD9-4ACB-455B-90E2-1C20F145DB68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemSolving.DyamicArray", "Dyamicarray\ProblemSolving.DyamicArray.csproj", "{145AEFD9-4ACB-455B-90E2-1C20F145DB68}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2Operators", "Day2Operators\Day2Operators.csproj", "{B007FEF7-C855-44A5-A6CD-2A94FC9B705E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30Days.Day2.Operators", "Day2Operators\30Days.Day2.Operators.csproj", "{B007FEF7-C855-44A5-A6CD-2A94FC9B705E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3ConditionalStatements", "Day3ConditionalStatements\Day3ConditionalStatements.csproj", "{D568849A-0135-475D-9176-7D21DB2EC625}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30Days.Day3.ConditionalStatements", "Day3ConditionalStatements\30Days.Day3.ConditionalStatements.csproj", "{D568849A-0135-475D-9176-7D21DB2EC625}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4ClassVsInstance", "Day4ClassVsInstance\Day4ClassVsInstance.csproj", "{A0D1D3F0-5DF9-4823-BFF1-274D3C8788F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30Days.Day4.ClassVsInstance", "Day4ClassVsInstance\30Days.Day4.ClassVsInstance.csproj", "{A0D1D3F0-5DF9-4823-BFF1-274D3C8788F7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day5Loops", "Day5Loops\Day5Loops.csproj", "{A2965776-33D1-45EE-A4DB-F6B4991F9AAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30Days.Day5.Loops", "Day5Loops\30Days.Day5.Loops.csproj", "{A2965776-33D1-45EE-A4DB-F6B4991F9AAD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pactice.LinkedList", "Pactice.LinkedList\Pactice.LinkedList.csproj", "{E9D2EDD1-2ACF-4EE5-965E-5E984304C40F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge.LinkedList.HasCycle", "Challenge.LinkedList.HasCycle\Challenge.LinkedList.HasCycle.csproj", "{535C148F-B119-4EAC-9A27-2DCD6E298120}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6Review", "Day6Review\Day6Review.csproj", "{9A73A7FC-1AC9-48B3-992B-801224234B9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30Days.Day6.Review", "Day6Review\30Days.Day6.Review.csproj", "{9A73A7FC-1AC9-48B3-992B-801224234B9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30Days.Day7.Arrays", "30Days.Day7.Arrays\30Days.Day7.Arrays.csproj", "{AECA2543-18FB-4F37-AAC9-521F1744B02C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{9A73A7FC-1AC9-48B3-992B-801224234B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A73A7FC-1AC9-48B3-992B-801224234B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A73A7FC-1AC9-48B3-992B-801224234B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECA2543-18FB-4F37-AAC9-521F1744B02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECA2543-18FB-4F37-AAC9-521F1744B02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECA2543-18FB-4F37-AAC9-521F1744B02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECA2543-18FB-4F37-AAC9-521F1744B02C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
